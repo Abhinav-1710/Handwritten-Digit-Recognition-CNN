@@ -39,17 +39,26 @@ Users can draw digits on a canvas and the trained CNN predicts the digit with co
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-
 ## Note
 The trained CNN model file is not included due to size limitations.
 Run train_mnist.py to generate the model.
 
 ## GUI Demo
 ![GUI Demo](gui_demo.png)
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/Abhinav-1710/Handwritten-Digit-Recognition-CNN.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Train the model:
+   python train_mnist.py
+
+4. Run the GUI:
+   python gui_app.py
+
 
 
