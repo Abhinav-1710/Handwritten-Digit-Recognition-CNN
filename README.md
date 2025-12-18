@@ -44,3 +44,8 @@ Users can draw digits on a canvas and the trained CNN predicts the digit with co
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+## Note
+The trained CNN model file is not included due to size limitations.
+Run train_mnist.py to generate the model.
+
