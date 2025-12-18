@@ -49,3 +49,7 @@ pip install -r requirements.txt
 The trained CNN model file is not included due to size limitations.
 Run train_mnist.py to generate the model.
 
+## GUI Demo
+![GUI Demo](gui_demo.png)
+
+
